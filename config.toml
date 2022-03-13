@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "https://ytyeoh.github.io/my_blog/"
+title = "YT Yeoh"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
