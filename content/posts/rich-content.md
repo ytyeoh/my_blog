@@ -1,34 +1,17 @@
 +++
-author = "Hugo Authors"
-title = "Rich Content"
-date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
+author = "YT Yeoh"
+title = "信息解读"
+date = "2022-03-13"
+description = "怎么分辨越来越多的信息，真假难辨？"
 tags = [
-    "shortcodes",
-    "privacy",
+    "信息真假",
+    "信息淹没",
 ]
 +++
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
----
+每一天我们都面对着数不清的数据，这些数据大量淹没我们小小的手机荧幕，导致我们无从分辨谁是谁非。数据没有对错，看提供数据的人要我们相信什么。所以数据都是被设计好了，去达到提供者要的目标。
 
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-<br>
-
----
-
-## Twitter Simple Shortcode
+我提供了一些简单的数据。
 
 
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+<iframe src="https://example.com/"></iframe>
