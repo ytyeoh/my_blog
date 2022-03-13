@@ -1,4 +1,6 @@
 baseURL = "https://ytyeoh.github.io/my_blog/"
+relativeURLs = true
+canonifyURLs = true
 title = "YT Yeoh"
 theme = "hugo-coder"
 languageCode = "en"
