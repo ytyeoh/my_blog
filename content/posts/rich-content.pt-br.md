@@ -23,7 +23,7 @@ O Hugo vem com vários [Shortcodes Internos](https://gohugo.io/content-managemen
 
 ## Shortcode simples do Twitter
 
-{{< twitter_simple 1085870671291310081 >}}
+
 
 <br>
 
