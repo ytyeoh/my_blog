@@ -1,11 +1,11 @@
 +++
 author = "YT Yeoh"
 title = "weiding"
-date = "2022-03-15"
-description = "怎么分辨越来越多的信息，真假难辨？"
+date = "2022-03-21"
+description = "当客机成了俯冲轰炸机"
 tags = [
    
 ]
 +++
 
-blamk
+2022年3月21日，广西发生了空难事件。
