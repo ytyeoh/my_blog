@@ -1,45 +1,22 @@
 +++
-author = "Hugo Authors"
-title = "Placeholder Text"
-date = "2019-03-09"
-description = "Lorem Ipsum Dolor Si Amet"
+author = "YT Yeoh"
+title = "受害者"
+date = "2022-03-20"
+description = "一直以来我以为掠食者除了人类都是没有天敌，但慢慢我发现原来不是这样的"
 tags = [
-    "markdown",
-    "text",
+    
 ]
 +++
 
-Lorem est tota propiore conpellat pectoribus de pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
+一直以来我以为掠食者除了人类都是没有天敌，但慢慢我发现原来不是这样的。原来它们才是受害者，都一直不断被欺压迫害，为了生存不得已而为之。它们都是一群没有远大志向的受害者，吃了这餐就没下一餐。
 
-1. Exierant elisi ambit vivere dedere
-2. Duce pollice
-3. Eris modo
-4. Spargitque ferrea quos palude
+首先介绍鳄鱼，其实鳄鱼们是受害者，它们是被迫猎食那些不断迫害它的动物。鳄鱼们的生活领地-河每天都被那些牛羊之类的草食动物侵犯着，它们不断喝掉河水，失去了河水会导致鳄鱼丧失栖息地失去保护导致灭亡。无计可施之下鳄鱼只好猎食牛羊来保护自己的家园，免得流离失所。
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.
+再来看看鲸鱼，鲸鱼是地球最大的动物，当然嘴巴也很大，所以我们都用“鲸吞”来表示大量食用的形容词。现实中鲸鱼很胆小，每天被那么多虾包围，快不能呼吸了。这些虾 一直都在侵略鲸鱼的领地不断压缩鲸鱼的生存空间，也是为了生存鲸鱼就只好鲸吞那些虾来换取生存的机会。胆小的鲸鱼战战兢兢鲸吞着虾，只是为了多一点生存空间不得已而为之。况且 你看这虾怎么吞也吞不完，还好鲸鱼都争气不然早就被虾迫害到绝种了。
 
-1. Comas hunc haec pietate fetum procerum dixit
-2. Post torum vates letum Tiresia
-3. Flumen querellas
-4. Arcanaque montibus omnes
-5. Quidem et
+我们不得 不说说舍己为人的豺狼。大家都知道老虎狮子都是猎食其他动物以生存的顶级掠食者，要让这些顶级掠食者灭亡，往往都只能靠它们老死，病死或被人类猎杀。为了保护牛羊都不再死于老虎和狮子的猎食，豺狼都干冒奇险偷走老虎狮子的猎物。只要没了食物，老虎狮子都会饿死。一旦老虎狮子饿死后，牛羊都安全了，再也不会被猎杀，摆脱了被捕食的噩运。
 
-# Vagus elidunt
+除了动物，人类的世界也是充满了富含爱心以及被迫害的人士。他们大多都投身政治为了广大群众利益抛头颅洒热血，所做的决定都是为了大众利益，从不为自己利益设想。连先天下之忧而忧，后天下之乐而乐的范仲淹先生都自叹不如，以范先生时代的千里马拍马急追也追不上。
 
-<svg class="canon" xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 496 373" height="373" width="496"><g fill="none"><path stroke="#000" stroke-width=".75" d="M.599 372.348L495.263 1.206M.312.633l494.95 370.853M.312 372.633L247.643.92M248.502.92l246.76 370.566M330.828 123.869V1.134M330.396 1.134L165.104 124.515"></path><path stroke="#ED1C24" stroke-width=".75" d="M275.73 41.616h166.224v249.05H275.73zM54.478 41.616h166.225v249.052H54.478z"></path><path stroke="#000" stroke-width=".75" d="M.479.375h495v372h-495zM247.979.875v372"></path><ellipse cx="498.729" cy="177.625" rx=".75" ry="1.25"></ellipse><ellipse cx="247.229" cy="377.375" rx=".75" ry="1.25"></ellipse></g></svg>
+一直都有人为了自己族群未来，不惜拉下面子侃侃而谈复兴大计。他们不惜牺牲自己家庭，生活，前途不畏强权就只是为了捍卫族群的未来。他们发愤忘食，气愤填膺不甘于族群的未来就这样被人给耽误了。他们会不停斗争直到目标达成或者被封官加爵后才会停止，让那些人见识到他们愚公移山的决心。
 
-[The Van de Graaf Canon](https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon)
-
-## Mane refeci capiebant unda mulcebat
-
-Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. **Faces illo pepulere** tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.
-
-Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.
-
-Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel **mitis temploque** vocatus, inque alis, *oculos nomen* non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides **parte**.
-
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
