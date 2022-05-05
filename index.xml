@@ -45,4 +45,14 @@ mRNA的技术关键是贡献者-罗伯特·马龙他有提过mRNA疫苗会对儿
 西方政府就回答：“可以，我可以分享些故事给你参详参详。我能成为政府是因为人民投选让我代表他们，所以他们都会支持我的政策。请问你是如何取得执政权力呢？”东方政府回答：“我们也是人民投选出来的政府呀。我们也是代表人民来治理国家让人民过上好生活。。”
 西方政府就询问：“我们是通过选票，一人一票投选出来当政府，请问你们也是一样吗？”东方政府回答：”我们不用选票，我们用枪杆子来投票。谁得到越多枪杆子的支持谁就是政府。”西方政府恍然大悟后说：“这样不大行，枪的力量虽然强大，但人心不服都不会真的支持政府。纸的力量原比枪还强大，可以真正让人民发自内心支持你。我建议你可以采用我们的方法来举办投票。”
 一百年后 东方政府子孙与西方政府子孙又再次于国际会议上相遇，于是聊起了一百年前的对话。东方政府：“非常感谢你的祖父给我祖父的建议，纸的力量果然比枪强大，今天人民对于政府的政策都非常支持，非常感谢你。”西方政府回答：“那太好了，恭喜你，请问你以什么政策来获取支持？会很难实行吗？”东方政府回答：“很简单，为了确保候选人都是有品质，每次举办选举时，参选的人都必须得到我的批准信才可以竞选。这样一来，他们选了他们喜欢的人就会大力支持政府的政策了。纸的力量果然比枪强大，也省下了我很多钱。改日你来我国家造访，我招待你喝喝酒聚一聚。”</description></item><item><title>About</title><link>https://ytyeoh.github.io/my_blog/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/my_blog/about/</guid><description>我是一个网站开发者，主要是用Ruby On Rails开发网站。这是一个使用go 的hugo开发的网站。
-主要是写一些播客，记录一些重要事件。</description></item><item><title>Contact</title><link>https://ytyeoh.github.io/my_blog/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/my_blog/contact/</guid><description>Follow me, @ytyeoh.</description></item><item><title>Projects</title><link>https://ytyeoh.github.io/my_blog/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/my_blog/projects/</guid><description>Nothing to see here&amp;hellip; Move along!</description></item></channel></rss>
+主要是写一些播客，记录一些重要事件。</description></item><item><title>Contact</title><link>https://ytyeoh.github.io/my_blog/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/my_blog/contact/</guid><description>Follow me, @ytyeoh.</description></item><item><title>为讲演会设立博客</title><link>https://ytyeoh.github.io/my_blog/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ytyeoh.github.io/my_blog/projects/</guid><description>计划 成立一个3-5人的小组设立并维护讲演会的博客。博客主要记录讲演会的活动，新闻，知识，秘书报告以及宣传等等。考虑到长久维护，安全以及服务器费用等，博客会采用hugo来编程并以直接了当的md格式来书写记录。md格式可以在任何text形式编写，如手机上的notes或者电脑上的任何一种text editior软件。
+md只需以井字号就可以控制标题，相比html观看也直接明了。目前whatsapp使用的bold，italic等功能就是md的格式，只要有用习惯whatsapp就可以很快上手写出完整的文章。本编文章就是在ipad的note里完成，只有在最后透过电脑存档来更新网站。
+活动 主要刊登已结束活动详情，照片等。比如例会或者每月的聚会。
+新闻 记录我们的故事，比如比赛成绩或者和其他分会交流等相关资讯。
+知识 分享比如如何注册pathway，提交pathway，背景图片下载以及相关提高讲演能力的资料等等。
+秘书报告 下一届我将当上秘书，所以会把秘书报告放在博客，方便大家随时可以找回相关资料。
+宣传 刊登即将主办的活动，让会员可以观看想参加的活动。类似 每次例会或者聚会及比赛等等。
+好处 传统上文档都存在各自手机或电脑，每当要更新就必须重新发给全部人，相当费时费力，以博客维护的话只需更新相关内容，所有的人都可以看到最新资料了。设计上也比较可以自由不必再局限whatapps或脸书的功能，可以做出比较有冲击力的设计。不用再花时间拉上whatapps或者拉下脸书找回成年旧事。减少手机内存，不必再发送大量图片，只需发送链接就可以自动生成主题，图片以及简短内容。可以设立rss来通知订阅者，这样我们的活动就可以让人随时知道。
+安全 文档可分为撒大类：-
+公开 - 所有人都可以看到并提供链接于网站内。 半公开 - 所有人都可以看到，但不提供链接于网站内，拥有链接的人才可以看到 内容。 -不公开 - 只有输入正确验证码的人才可以看到内容，拥有链接的人才可以看到，不提供链接于网站内。 需求 要求自愿者成为团队成员一起打造管理博客。职务包括但不局限如下：-
+提供训练编写内容 网站设计互动 完善博客功能 不定时更新博客 欢迎加入一起成长，让我们的讲演会变得更有效率及节省时间。</description></item></channel></rss>
